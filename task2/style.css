@@ -1,0 +1,173 @@
+.body {
+    background-image: url("image5.jpeg");
+    background-size: 100%;
+    height: 720px;
+    width: 1457px;
+    background-repeat: no-repeat;
+}
+
+.navbar {
+
+    font-weight: bold;
+    color: rgb(14, 12, 12);
+    border: 5px solidaquamarine;
+    background-color: aquamarine;
+    border-radius: 30px;
+    height: 60px;
+    position: sticky;
+    top: 0;
+    z-index: 5;
+
+}
+
+.litag {
+    font-size: 30px;
+
+    display: inline;
+    padding-right: 100px;
+    padding-inline: 76px;
+    position: relative;
+    top: 10px;
+}
+
+li:hover {
+    color: red;
+    background-color: blue;
+    border-radius: 20px;
+    height: 30px;
+}
+
+.div1 {
+    position: relative;
+    top: 50px;
+}
+
+.h1a {
+    color: rgb(233, 94, 7);
+    font-size: 80px;
+    position: relative;
+    left: 400px;
+    top: -50px;
+    display: inline-block;
+    background-color: rgb(13, 157, 170);
+    width: 700px;
+    height: 110px;
+    text-align: center;
+    z-index: 1;
+    border-radius: 40px;
+
+}
+
+.div2 {
+    border: 3px solid rgb(214, 131, 146);
+    ;
+    color: red;
+    display: inline-block;
+    background-color: rgb(214, 131, 146);
+    height: 300px;
+    width: 800px;
+    border-radius: 20px;
+    position: relative;
+    top: 80px;
+    left: 400px;
+
+}
+
+.b {
+    background-color: rgb(219, 219, 228);
+    /* color: aqua; */
+    border-radius: 30px;
+
+
+}
+
+input[target='in'] {
+    padding: 20px;
+    margin: 20px;
+    background-color: aquamarine;
+}
+
+input[target='regi'] {
+    font-size: 40px;
+    border-radius: 15px;
+    background-color: rgb(12, 19, 221);
+    color: rgb(54, 200, 28);;
+}
+button:hover{
+    background-color: rgb(224, 28, 28);
+}
+
+.div4 {
+    position: relative;
+    top: -25px;
+    left: 50px;
+    font-size: 40px;
+    
+
+}
+
+.div3 {
+    position: relative;
+    left: 50px;
+    font-size: 20px;
+
+}
+
+input:hover {
+    /* color: rgb(230, 155, 4); */
+}
+
+.sec2 {
+    background-image: url("image4.webp");
+    background-repeat: no-repeat;
+    background-size: 100%;
+     height: 720px;
+    width: 1457px;
+    
+
+}
+
+.div5 {
+    color: rgb(248, 241, 241);
+    font-size: 60px;
+    border: 5px solid rgb(52, 14, 88);
+    display: inline;
+    background-color: rgb(52, 14, 88);
+    border-radius: 30px;
+    /* margin-bottom: 20px; */
+    position: relative;
+    left: 450px;
+    top: 40px;
+}
+.info{
+    color: rgb(4, 0, 255);
+    font-size: 40px;
+    border: 4px solid rgb(140, 109, 169);
+    display: inline-block;
+    width: 700px;
+    height: 400px;
+    margin-left:400px;
+    margin-top:10px;
+    border-radius: 30px;
+    background-color: rgb(140, 109, 169);
+}
+input[target='to'] {
+    font-size: 40px;
+    border-radius: 15px;
+    background-color: rgb(185, 187, 229);
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.search{
+    font-size:40px;
+    color: rgb(54, 200, 28);
+    background-color: blue;
+    position: relative;
+    top: 40px;
+    left: 200px;
+    width: 300px;
+}
+button{
+    border-radius: 40px;
+    
+}
